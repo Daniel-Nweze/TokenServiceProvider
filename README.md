@@ -20,7 +20,9 @@ Validerar att en token är:
 
 ## 🔧 Användning (för frontend eller andra API:er)
 
-*https://tokenserviceprovider.onrender.com*
+*Swagger: https://tokenserviceprovider.onrender.com*
+*API: https://tokenserviceprovider.onrender.com/api/Auth/token
+https://tokenserviceprovider.onrender.com/api/Validate*
 
 ---
 
